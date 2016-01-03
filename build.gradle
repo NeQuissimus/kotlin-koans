@@ -3,7 +3,7 @@ buildscript {
     mavenCentral()
   }
   dependencies {
-    classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.0.0-beta-3595'
+    classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.0.0-beta-4583'
   }
 }
 
@@ -14,7 +14,7 @@ repositories {
 }
 
 dependencies {
-  compile 'org.jetbrains.kotlin:kotlin-stdlib:1.0.0-beta-3595'
+  compile 'org.jetbrains.kotlin:kotlin-stdlib:1.0.0-beta-4583'
   compile 'com.google.guava:guava:16.0.1'
   testCompile 'junit:junit:4.10'
 }
